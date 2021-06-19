@@ -1,0 +1,7 @@
+name: CustomWands
+version: ${project.version}
+main: codes.edaz.customwandsplugin.CustomWandsPlugin
+api-version: 1.16
+authors: [ Edazpotato ]
+description: A plugin that lets you create custom wands!
+website: edaz.codes/custom-wands-plugin/
